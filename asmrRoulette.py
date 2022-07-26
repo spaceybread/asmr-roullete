@@ -9,7 +9,7 @@ while True:
     asmr = "https://www.youtube.com/watch?v=3Q2QDwQXOZA&t={}".format(str(time))
     ting = "https://www.youtube.com/watch?v=okuTl9MGxgI&t=1"
 
-    revolver = [asmr, asmr, asmr, asmr, asmr, ting, asmr, asmr, asmr, asmr, asmr]
+    revolver = [asmr, asmr, asmr, asmr, asmr, ting, asmr, asmr]
 
     bullet = random.choice(revolver)
 
